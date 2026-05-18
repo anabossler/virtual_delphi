@@ -1,0 +1,13 @@
+.env
+*.json
+*.csv
+*.pkl
+*.pt
+__pycache__/
+*.pyc
+.DS_Store
+colbert_index/
+ce_delphi_v3_results/
+ce_retrieval_results/
+cluster_fulltexts/
+cluster_news/
