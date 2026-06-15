@@ -1,9 +1,6 @@
 """
 AI Screening and Semantic Analysis Pipeline
 
-Author: Ana Bossler
-License: MIT
-
 This software implements a rule-based AI screening procedure
 combined with semantic topic analysis for open-ended survey responses.
 
